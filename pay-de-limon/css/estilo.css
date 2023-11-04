@@ -1,1 +1,44 @@
 /*Hoja de estilos de la receta*/
+
+/*Todas las fuentes en el documento*/
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #3fd106;
+}
+
+h2{
+
+}
+
+h3{
+    color: #0C4D85;
+    margin-top: 50px;
+    margin-bottom: 0;
+    margin-left: 30px;
+    font-weight: lighter;
+    font-size: 23px;
+}
+
+.pay-limon-imagen{
+    text-align: center;
+}
+
+.separador-verde{
+    border: 1px solid #3fd106;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.tipo-receta{
+    margin: 15px;
+    text-align: center;
+}
+
+.tipo-receta p{
+    display: inline;
+    margin-left: 10px;
+}
