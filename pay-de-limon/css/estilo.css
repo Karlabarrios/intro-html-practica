@@ -23,8 +23,19 @@ h3{
     font-size: 23px;
 }
 
+.logo-imagen{ 
+    text-align: center;
+}
+
+.logo-imagen img{
+    width: 250px;
+    background-color: #fff;
+    margin-top: -80px;
+}
+
 .pay-limon-imagen{
     text-align: center;
+    width: 100%;
 }
 
 .separador-verde{
